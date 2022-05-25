@@ -19,14 +19,14 @@ const Skills = () => {
             Technical Skills
         </p>
         <div className="flex flex-wrap justify-center pt-2">
-        <div data-aos="fade-down" data-aos-duration="4000" delay="1000" >
+        <div data-aos="fade-right" data-aos-duration="4000" delay="1000" >
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden rounded-xl sm:w-52 bg-white shadow-2xl">
             <SiTailwindcss color="#06b6d4"  className='mx-auto text-6xl' />
             <p className="text-xl font-semibold sm:text-2xl text-center text-black mt-6">Tailwind</p>
 
         </div>
         </div>
-        <div data-aos="fade-down" data-aos-duration="4000" delay="1300" >
+        <div data-aos="fade-left" data-aos-duration="4000" delay="1300" >
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden rounded-xl sm:w-52 bg-white shadow-2xl">
             <SiJavascript  color=" #F0DB4F" className='mx-auto text-6xl' />
             <p className="text-xl font-semibold sm:text-2xl text-center text-black mt-6">Java Script</p>
@@ -35,7 +35,7 @@ const Skills = () => {
 
         </div>
         
-        <div data-aos="fade-down" data-aos-duration="4000" delay="1600" >
+        <div data-aos="fade-right" data-aos-duration="4000" delay="1600" >
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden rounded-xl sm:w-52 bg-white shadow-2xl">
             <SiBootstrap color='#563d7c'  className='mx-auto text-6xl' />
             <p className="text-xl font-semibold sm:text-2xl text-center  text-black mt-6">Bootstrap</p>
@@ -54,7 +54,7 @@ const Skills = () => {
 
         </div>
 
-        <div data-aos="fade-left" data-aos-duration="4000" delay="2300" >
+        <div data-aos="fade-right" data-aos-duration="4000" delay="2300" >
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden rounded-xl sm:w-52 bg-white shadow-2xl">
             <SiCss3  color='#264de4' className='mx-auto text-6xl' />
             <p className="text-xl font-semibold sm:text-2xl text-center  text-black mt-6">CSS</p>
@@ -72,7 +72,7 @@ const Skills = () => {
         </div>
 
         </div>
-        <div data-aos="fade-left" data-aos-duration="4000" delay="3000" >
+        <div data-aos="fade-right" data-aos-duration="4000" delay="3000" >
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden rounded-xl sm:w-52 bg-white shadow-2xl">
             <SiNextdotjs  className='mx-auto text-6xl' />
             <p className="text-xl font-semibold sm:text-2xl text-center  text-black mt-4">Next JS</p>
