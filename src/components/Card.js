@@ -23,7 +23,7 @@ const Card = () => {
                 <FaTwitter />
                 <span className="sr-only">Twitter</span>
             </a>
-            <a  href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMhdXKNZpDJNLsFMZgzmnhzPjjzsLmNbcZWTQzZFFrRfBVcFWxddTqHJnkVzZlrshsNrhL" className="text-xl text-red-500 hover:bg-red-500 hover:text-white rounded-full m-1 p-1 sm:m-2 sm:p-2 transition-colors duration-300">
+            <a  href="mailto:kommerakrishnachaitanya@gmail.com" className="text-xl text-red-500 hover:bg-red-500 hover:text-white rounded-full m-1 p-1 sm:m-2 sm:p-2 transition-colors duration-300">
                 <FaEnvelope />
                 <span className="sr-only">Gmail</span>
             </a>
